@@ -1,0 +1,14 @@
+{
+  "name": "MutationTest",
+  "version": "1.0.0",
+  "description": "mutation test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Mateus",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
