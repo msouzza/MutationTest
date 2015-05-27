@@ -1,0 +1,14 @@
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+19 of 19 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.
+20 of 20 unignored mutations are tested (100%). 2 mutations were ignored.

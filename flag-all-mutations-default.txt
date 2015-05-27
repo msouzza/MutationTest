@@ -1,0 +1,272 @@
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... urn value2; } else { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 > value2) { return value1; }  ... return value2; } else { return value1; } -> SURVIVED
+js:6:12 Replaced  >  with >= -> SURVIVED
+js:6:12 Replaced  >  with <= -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:20 Replaced  *  with / -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... urn value2; } else { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 > value2) { return value1; }  ... return value2; } else { return value1; } -> SURVIVED
+js:6:12 Replaced  >  with >= -> SURVIVED
+js:6:12 Replaced  >  with <= -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:20 Replaced  *  with / -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... urn value2; } else { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 > value2) { return value1; }  ... return value2; } else { return value1; } -> SURVIVED
+js:6:12 Replaced  >  with >= -> SURVIVED
+js:6:12 Replaced  >  with <= -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:20 Replaced  *  with / -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... urn value2; } else { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 >= value2) { return value1; } ... return value2; } else { return value1; } -> SURVIVED
+js:6:12 Replaced  >=  with > -> SURVIVED
+js:6:12 Replaced  >=  with < -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:20 Replaced  *  with / -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... urn value2; } else { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 >= value2) { return value1; } ... return value2; } else { return value1; } -> SURVIVED
+js:6:12 Replaced  >=  with > -> SURVIVED
+js:6:12 Replaced  >=  with < -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:20 Replaced  *  with / -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... urn value2; } else { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 >= value2) { return value1; } ... return value2; } else { return value1; } -> SURVIVED
+js:6:12 Replaced  >=  with > -> SURVIVED
+js:6:12 Replaced  >=  with < -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:20 Replaced  *  with / -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... urn value2; } else { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 >= value2) { return value1; } ... return value2; } else { return value1; } -> SURVIVED
+js:6:12 Replaced  >=  with > -> SURVIVED
+js:6:12 Replaced  >=  with < -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:20 Replaced  *  with / -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... urn value2; } else { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 >= value2) { return value1; } ... return value2; } else { return value1; } -> SURVIVED
+js:6:12 Replaced  >=  with > -> SURVIVED
+js:6:12 Replaced  >=  with < -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:20 Replaced  *  with / -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... urn value2; } else { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 > value2) { return value1; }  ... return value2; } else { return value1; } -> SURVIVED
+js:6:12 Replaced  >  with >= -> SURVIVED
+js:6:12 Replaced  >  with <= -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:20 Replaced  *  with / -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... urn value2; } else { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 > value2) { return value1; }  ... return value2; } else { return value1; } -> SURVIVED
+js:6:12 Replaced  >  with >= -> SURVIVED
+js:6:12 Replaced  >  with <= -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 19 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... value1 === value2) { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 > value2) { return value1; }  ... f (value1 === value2) { return value1; } -> SURVIVED
+js:6:12 Replaced  >  with >= -> SURVIVED
+js:6:12 Replaced  >  with <= -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:10:19 Replaced  ===  with !== -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... value1 !== value2) { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 > value2) { return value1; }  ... f (value1 !== value2) { return value1; } -> SURVIVED
+js:6:12 Replaced  >  with >= -> SURVIVED
+js:6:12 Replaced  >  with <= -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:10:19 Replaced  !==  with === -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
+js:3:1 Removed function metods() { } -> SURVIVED
+js:5:1 Removed metods.Verify = function (value1, value2 ... value1 !== value2) { return value1; } }; -> SURVIVED
+js:15:1 Removed metods.Sequenc = function (param) { var  ... ment = element * 2; } return element; }; -> SURVIVED
+js:22:1 Removed module.exports = metods; -> SURVIVED
+js:6:2 Removed if (value1 > value2) { return value1; }  ... f (value1 !== value2) { return value1; } -> SURVIVED
+js:6:12 Replaced  >  with >= -> SURVIVED
+js:6:12 Replaced  >  with <= -> SURVIVED
+js:7:3 Removed return value1; -> SURVIVED
+js:8:19 Replaced  <  with <= -> SURVIVED
+js:8:19 Replaced  <  with >= -> SURVIVED
+js:9:3 Removed return value2; -> SURVIVED
+js:10:19 Replaced  !==  with === -> SURVIVED
+js:11:3 Removed return value1; -> SURVIVED
+js:16:2 Removed var element = 1; -> SURVIVED
+js:17:2 Removed for (var index = 0; index < param; index++) { element = element * 2; } -> SURVIVED
+js:20:2 Removed return element; -> SURVIVED
+js:16:16 Replaced 1 with 2 -> SURVIVED
+js:17:19 Replaced 0 with 1 -> SURVIVED
+js:18:3 Removed element = element * 2; -> SURVIVED
+js:18:23 Replaced 2 with 3 -> SURVIVED
+0 of 20 unignored mutations are tested (0%). 2 mutations were ignored.
