@@ -7,3 +7,7 @@ Aplicação básica do conceito Mutation Test
 Plugin de teste
 * Mocha
 
+Task Runner
+* Grunt
+* grunt-mutation-testing
+
