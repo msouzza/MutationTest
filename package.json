@@ -4,18 +4,17 @@
   "description": "mutation test",
   "main": "index.js",
   "scripts": {
-    "test": "test"
-  },
+  "test": "mocha lib/tests/**/*.js",
+  "mutation": "stryker run"
+},
   "author": "Mateus",
   "license": "ISC",
-  "devDependencies": {
-    "chai": "^2.3.0",
-    "grunt": "^0.4.5",
-    "grunt-contrib-concat": "^0.5.1",
-    "grunt-mocha": "^0.4.12",
-    "grunt-mocha-test": "^0.12.7",
-    "grunt-mutation-testing": "^1.1.0",
-    "karma": "^0.12.32",
-    "mocha": "^2.2.5"
-  }
+ "devDependencies": {
+  "chai": "^4.3.7",
+  "grunt": "^1.6.1",
+  "grunt-contrib-concat": "^2.1.0",
+  "grunt-mocha": "^1.2.0",
+  "grunt-mocha-test": "^0.13.3",
+  "mocha": "^10.2.0"
+}
 }
