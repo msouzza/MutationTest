@@ -1,16 +1,16 @@
 # MutationTest
-Aplicação básica do conceito Mutation Test
+Aplicação básica do conceito Teste de Mutação
 
 # Tecnologias utilizadas
 * Node
 
-Plugin de teste
+# Dependências
 * Mocha
+* Chai
 
-Task Runner
+# Task Runner
 * Grunt
 * Striker Mutation Test
-
 
 # Como usar o código
 * Instalar as dependências do projeto: npm install
