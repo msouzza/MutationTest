@@ -9,5 +9,5 @@ Plugin de teste
 
 Task Runner
 * Grunt
-* grunt-mutation-testing
+* Striker Mutation Test
 
